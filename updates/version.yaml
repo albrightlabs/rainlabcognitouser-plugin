@@ -1,0 +1,7 @@
+v1.0.1: First version of RainLab User Cognito
+v1.0.2:
+    - Update RainLab Users table for is_congnito_user
+    - update_rainlab_users_table.php
+v1.0.3:
+    - Update RainLab Users table for is_congnito_user_existing
+    - update_rainlab_users_table_2.php
